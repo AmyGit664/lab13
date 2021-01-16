@@ -1,0 +1,12 @@
+************************************************************************************************
+******************************* lab13: Booting the Beagle Board ********************************
+************************************************************************************************
+
+Dans cette partie, on cherche à booter la carte Beagle bone sur la carte SD bootée précédemment
+lors du lab12. Cette carte SD sera insérée dans la carte Beagle qui contient déjà la carte eMMC
+(disque dur interne de stockage). Un bouton poussoir permettra dans ce cas de booter sur eMMC ou
+sur la carte micro-SD amorçable.
+
+
+
+
